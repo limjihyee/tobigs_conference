@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "피부건조증"
+  },
+  "intention": "정의",
+  "question": "피부건조증이란 어떤 증상이 나타나는지 알고 싶어요.",
+  "answer": "피부건조증은 피부의 수분이 부족하여 피부가 건조해지고, 가려움증이 나타나는 증상입니다. 심할 경우 피부에 하얗게 각질이 일어나거나, 갈라지는 경우도 있습니다."
+}

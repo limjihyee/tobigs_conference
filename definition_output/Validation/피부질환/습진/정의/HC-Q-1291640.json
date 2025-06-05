@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "습진"
+  },
+  "intention": "정의",
+  "question": "피부염은 어떤 증상을 가지는 질병인가요?",
+  "answer": "피부염은 피부가 붉어지고 가려움증, 건조함, 부종, 수포 등이 나타날 수 있는 질환입니다. 원인에 따라 증상과 부위가 다양하므로 정확한 진단은 의료기관을 방문해야 알 수 있습니다."
+}

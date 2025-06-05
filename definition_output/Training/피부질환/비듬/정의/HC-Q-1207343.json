@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "비듬"
+  },
+  "intention": "정의",
+  "question": "비듬이 생기는 이유에는 어떤 것들이 있을까요?",
+  "answer": "비듬은 주로 두피의 각질이 과도하게 생기는 현상으로, 피지 분비 과다, 말라세지아라는 효모균의 증식, 민감한 두피, 스트레스, 계절적 요인 등이 원인이 될 수 있습니다."
+}

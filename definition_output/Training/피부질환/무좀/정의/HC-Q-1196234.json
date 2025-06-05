@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "무좀"
+  },
+  "intention": "정의",
+  "question": "무좀에 대해 자세한 정의를 알고 싶어요.",
+  "answer": "무좀은 발의 피부에 발생하는 감염성 질환으로, 주로 표재성 곰팡이 감염입니다. 주로 고온다습한 환경에서 번식하는 피부사상균이 원인이며, 가려움증과 각질증식이 특징입니다."
+}

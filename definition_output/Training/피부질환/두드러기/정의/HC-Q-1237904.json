@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "두드러기"
+  },
+  "intention": "정의",
+  "question": "두드러기라는 질병의 정의를 알려주세요.",
+  "answer": "두드러기는 피부가 붓고 붉어지는 혈관 확장으로 인해 발생하는 흔한 피부 질환입니다. 주로 가려움증을 동반하며, 일시적으로 나타났다가 사라지는 팽진(wheal)이 특징입니다."
+}

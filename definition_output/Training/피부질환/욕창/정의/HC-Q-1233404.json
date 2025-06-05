@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "30대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "욕창"
+  },
+  "intention": "정의",
+  "question": "욕창이란 어떤 종류의 질병인지 자세히 알고 싶어요.",
+  "answer": "욕창은 피부 및 그 아래 조직이 압박으로 인해 혈류가 막혀 발생하며, 주로 뼈 돌출부에 생깁니다. 움직이기 어려운 환자나 장기간 침대에 누워있는 환자들에서 발생 위험이 높습니다."
+}

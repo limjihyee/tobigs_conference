@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "기타"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "흡인성 폐렴"
+  },
+  "intention": "정의",
+  "question": "흡인성 폐렴이라는 질병은 어떤 것을 의미하는 건가요?",
+  "answer": "흡인성 폐렴은 이물질이나 위산이 기도로 잘못 흡인되어 생기는 폐 감염을 의미합니다. 기침, 발열, 호흡곤란 등이 주요 증상이며, 신속한 항생제 치료가 필요합니다."
+}

@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "기타"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "백일해"
+  },
+  "intention": "정의",
+  "question": "백일해에 감염되는 원인균과 이 세균이 전파하는 방식에 대해 상세히 설명해주세요.",
+  "answer": "백일해의 원인균은 Bordetella pertussis 세균입니다. 이 세균은 기침이나 재채기를 통해 공기 중으로 전파되며, 감염된 사람의 분비물에 직접 접촉해도 감염될 수 있습니다. 예방접종으로 예방 가능한 질병입니다."
+}

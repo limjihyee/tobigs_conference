@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "섬유종"
+  },
+  "intention": "정의",
+  "question": "섬유종이 양성 종양과 어떻게 다른가요?",
+  "answer": "섬유종은 결합 조직으로 구성된 양성 종양이며, 일반적으로 부드럽고 이동이 가능합니다. 반면, 양성 종양은 악성이 아니며 성장 속도가 느리고 전이되지 않는 특성을 가진 종양을 총칭합니다."
+}

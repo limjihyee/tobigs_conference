@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "흉터"
+  },
+  "intention": "정의",
+  "question": "흉터의 정의는 무엇인가요?",
+  "answer": "흉터는 피부 손상 후 치유 과정에서 피부 조직이 재생되며 생기는 흔적입니다. 주로 콜라겐 과다 생성으로 인해 피부가 주변보다 비정상적으로 높거나 색소 침착된 형태를 띱니다."
+}

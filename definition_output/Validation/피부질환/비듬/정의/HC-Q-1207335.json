@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "비듬"
+  },
+  "intention": "정의",
+  "question": "비가 올 때 머리가 가렵고 하얀 것은 비듬의 특징적인 증상 중 하나일까요?",
+  "answer": "네, 맞습니다. 비가 올 때 머리가 가렵고 하얀 비듬이 떨어지는 것은 일반적인 비듬의 특징적인 증상입니다. 비듬은 두피의 각질이 과도하게 일어나는 상태입니다."
+}

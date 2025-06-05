@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "40대",
+    "occupation": "사무직"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "만성 기침"
+  },
+  "intention": "정의",
+  "question": "만성 기침의 기간은 어떻게 되나요?",
+  "answer": "만성 기침은 일반적으로 8주 이상 지속되는 기침을 의미합니다. 기침이 지속적으로 있다면 의료기관을 방문하여 정확한 진단을 받는 것이 좋습니다."
+}

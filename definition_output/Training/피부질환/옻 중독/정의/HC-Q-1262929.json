@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옻 중독"
+  },
+  "intention": "정의",
+  "question": "옻 중독이 무엇인지 알고 싶어요. 옻 중독이 발생하는 원인은 무엇인가요?",
+  "answer": "옻 중독은 옻나무의 수액에 접촉하거나 섭취하여 발생하는 알레르기 반응입니다. 옻나무 수액에 있는 우루시올(urushiol)이라는 물질에 의해 발생하며, 주로 피부 접촉이나 섭취로 인해 발병합니다."
+}

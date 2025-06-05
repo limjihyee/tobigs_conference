@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "40대",
+    "occupation": "사무직"
+  },
+  "disease_category": "치과질환",
+  "disease_name": {
+    "kor": "치아 우식증[충치]"
+  },
+  "intention": "정의",
+  "question": "치아 우식증과 충치가 일치하는 정의인가요?",
+  "answer": "치아 우식증과 충치는 같은 의미로 사용됩니다. 둘 다 치아 표면에 형성된 세균막 플라크가 내놓는 산에 의해 치질이 파괴되어 구멍이 생기는 것을 말합니다."
+}

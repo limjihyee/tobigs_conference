@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "섬유종"
+  },
+  "intention": "정의",
+  "question": "섬유종의 핵심적인 정의와 특징을 알려주세요.",
+  "answer": "섬유종은 부드럽고 만져지는 고무 같은 혹으로, 섬유성 조직과 결합 조직의 증식으로 인해 발생합니다. 주로 복벽, 혀, 입술, 손등 등에 발생하며 통증은 거의 없고, 크기는 수mm에서 수cm까지 다양합니다."
+}

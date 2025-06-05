@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "농가진"
+  },
+  "intention": "정의",
+  "question": "농가진이 전파되는 경로에 대해 설명해주세요.",
+  "answer": "농가진은 주로 상처나 찰과상에 황색포도상구균이나 A군 연쇄상구균이 감염되어 발생합니다. 직접적인 피부 접촉이나 오염된 물건(수건, 옷 등)을 통해 전파될 수 있습니다."
+}

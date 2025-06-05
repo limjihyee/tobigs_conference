@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "40대",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "흉터"
+  },
+  "intention": "정의",
+  "question": "흉터가 어떤 상태를 의미하는 건가요?",
+  "answer": "흉터는 상처나 염증으로 손상된 피부가 치유되면서 생기는 변화를 의미합니다. 이는 콜라겐 재구성과 새로운 조직 형성의 결과이며, 크기, 색상, 깊이에 따라 다양한 모양을 띱니다."
+}

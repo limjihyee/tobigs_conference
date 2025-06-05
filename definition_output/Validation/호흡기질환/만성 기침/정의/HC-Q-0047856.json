@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "무직"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "만성 기침"
+  },
+  "intention": "정의",
+  "question": "만성 호흡기 질환은 어떤 이유로 인해 발생하는 질병인가요?",
+  "answer": "만성 호흡기 질환은 주로 장기간의 흡연, 대기오염, 유해한 물질 노출, 혹은 폐 감염에 의해 발생합니다. 유전적 요인이나 면역 결핍도 발병에 영향을 줄 수 있습니다."
+}

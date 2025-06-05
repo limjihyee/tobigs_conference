@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "40대",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "건선"
+  },
+  "intention": "정의",
+  "question": "건선이라는 병은 정확히 무엇을 의미하는 건가요?",
+  "answer": "건선은 피부에 발진이나 가려움증, 각질 쌓임 등을 일으키는 만성 염증성 피부질환입니다. 면역계의 이상으로 피부의 과도한 증식이 발생하여 나타나는 것으로 알려져 있습니다."
+}

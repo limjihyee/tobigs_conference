@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "무좀"
+  },
+  "intention": "정의",
+  "question": "무좀의 발생 원인에 따라 종류가 다른 균들이 무엇인가요?",
+  "answer": "무좀은 주로 피부사상균 감염으로 발생하며, 주로 Trichophyton, Epidermophyton, Microsporum 세 종류의 균이 원인이 됩니다. 이 중 Trichophyton rubrum이 가장 흔한 원인균입니다."
+}

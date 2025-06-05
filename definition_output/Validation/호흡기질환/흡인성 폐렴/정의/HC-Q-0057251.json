@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "기타"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "흡인성 폐렴"
+  },
+  "intention": "정의",
+  "question": "흡인성 폐렴이란 어떤 종류의 질병인가요?",
+  "answer": "흡인성 폐렴은 음식물, 위산, 이물질 등이 기도로 잘못 들어가 생기는 폐렴입니다. 주로 면역력이 약하거나 의식장애, 연하장애가 있는 분들에게 발생하기 쉽습니다."
+}

@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "자영업"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "중증 급성 호흡기 증후군"
+  },
+  "intention": "정의",
+  "question": "중증 급성 호흡기 증후군이란 어떤 질병을 의미하나요? 사스와 연관이 있나요?",
+  "answer": "중증 급성 호흡기 증후군(Severe Acute Respiratory Syndrome, SARS)은 2002년 중국에서 처음 발생하여 전 세계로 확산된, 바이러스(SARS-CoV) 감염으로 인한 호흡기 질환입니다. 이 질병은 '사스'라고도 불리며, 고열, 기침, 호흡곤란 등의 증상을 동반합니다."
+}

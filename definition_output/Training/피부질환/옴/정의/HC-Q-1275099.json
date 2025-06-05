@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옴"
+  },
+  "intention": "정의",
+  "question": "옴이 어떤 증상을 보이는지 알려주세요.",
+  "answer": "옴은 심한 가려움증과 함께 피부에 구진이나 수포, 그리고 특징적인 옴진을 보입니다. 주로 손가락 사이, 손목, 팔꿈치, 무릎, 엉덩이, 허리 등에서 발견됩니다."
+}

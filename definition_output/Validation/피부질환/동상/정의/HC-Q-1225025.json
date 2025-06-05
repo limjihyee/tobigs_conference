@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "생산/노무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "동상"
+  },
+  "intention": "정의",
+  "question": "동상이 어떤 경우에 발생하는지 알려주세요.",
+  "answer": "동상은 주로 추운 환경에서 피부가 장기간 노출될 때 발생합니다. 강한 바람, 습한 날씨, 낮은 체온 유지 등이 동상 발생의 위험을 높입니다."
+}

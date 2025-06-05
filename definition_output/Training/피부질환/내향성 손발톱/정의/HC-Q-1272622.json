@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "전문직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "내향성 손발톱"
+  },
+  "intention": "정의",
+  "question": "내향성 손발톱이란 어떤 부위에서 발생하는 손발톱 문제인가요?",
+  "answer": "내향성 손발톱은 주로 손톱이나 발톱의 가장자리가 살 속으로 파고들어 발생합니다. 주로 엄지발톱에 자주 나타나는 문제입니다."
+}

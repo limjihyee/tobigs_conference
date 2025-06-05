@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "30대",
+    "occupation": "관리직"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "폐기종"
+  },
+  "intention": "정의",
+  "question": "폐기종이 발생하는데 기여하는 다양한 요인들은 무엇인가요?",
+  "answer": "폐기종 발생의 가장 큰 요인은 장기간의 흡연입니다. 그 외에도 공기오염, 유전적 요인(알파-1 항트립신 결핍), 만성폐쇄성 폐질환(COPD)의 과거력이 폐기종 발생에 기여할 수 있습니다."
+}

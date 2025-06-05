@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "주부"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "폐결핵"
+  },
+  "intention": "정의",
+  "question": "우리가 알고 있는 폐결핵의 정의는 무엇인가요?",
+  "answer": "폐결핵은 결핵균이 폐에 감염되어 발생하는 중증 감염 질환입니다. 주로 기침을 통한 공기중 감염으로 전파되며, 치료가 필요한 만성 질환이라는 점이 특징입니다."
+}

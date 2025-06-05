@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "여드름"
+  },
+  "intention": "정의",
+  "question": "모낭 속에 피지가 쌓여 염증이 생긴 경우, 이를 여드름이라고 말하는 건가요?",
+  "answer": "네, 맞습니다. 여드름은 모낭의 기름샘이 플러그가 되어 박테리아에 감염되어 염증이 생기는 상태를 말합니다."
+}

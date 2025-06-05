@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "30대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "모낭염"
+  },
+  "intention": "정의",
+  "question": "모낭염이란 어떤 부위에서 발생하는 질병인가요?",
+  "answer": "모낭염은 모낭에 생기는 염증으로, 주로 얼굴, 등, 가슴과 같이 모낭이 있는 부위 어디에서나 발생할 수 있습니다. 특히 피부에 박테리아나 진균이 감염되어 발생합니다."
+}

@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "20대",
+    "occupation": "학생"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "중동 호흡기 증후군"
+  },
+  "intention": "정의",
+  "question": "중동 호흡기 증후군과 코로나-19의 원인에는 어떤 차이점이 있을까요?",
+  "answer": "중동 호흡기 증후군(MERS)은 MERS-CoV라는 코로나바이러스에 의해 발생하며, 코로나-19는 SARS-CoV-2라는 코로나바이러스에 의해 발생합니다. 두 질환 모두 코로나바이러스가 원인이지만, 서로 다른 변종의 코로나바이러스로 인해 발생합니다."
+}

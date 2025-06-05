@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "소양증"
+  },
+  "intention": "정의",
+  "question": "소양증의 진단은 어떻게 이루어지나요?",
+  "answer": "소양증의 진단은 주로 환자의 병력 청취와 피부 검사를 통해 이루어집니다. 다른 질환과의 감별을 위해 혈액검사, 피부검사 등을 추가로 진행할 수 있습니다."
+}

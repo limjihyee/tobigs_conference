@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "무좀"
+  },
+  "intention": "정의",
+  "question": "무좀을 일으키는 균들의 종류에는 어떤 것들이 있을까요?",
+  "answer": "무좀을 일으키는 균들은 주로 피부사상균에 속하는데, 가장 흔한 원인균으로는 트라이언킨균속(Trichophyton), 에피더모파이톤균속(Epidermophyton), 그리고 마이크로스포룸균속(Microsporum)이 있습니다."
+}

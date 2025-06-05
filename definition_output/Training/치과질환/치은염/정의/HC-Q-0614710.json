@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "주부"
+  },
+  "disease_category": "치과질환",
+  "disease_name": {
+    "kor": "치은염"
+  },
+  "intention": "정의",
+  "question": "치은염이란 질병의 정확한 정의를 알 수 있을까요?",
+  "answer": "치은염은 잇몸에만 생긴 염증으로, 잇몸이 빨갛게 부어오르고 출혈이 일어나는 상태를 말합니다. 주로 구강 위생 불량으로 인해 플러그와 세균이 원인이 되어 발생합니다."
+}

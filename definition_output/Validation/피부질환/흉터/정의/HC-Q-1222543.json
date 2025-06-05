@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "흉터"
+  },
+  "intention": "정의",
+  "question": "흉터란 정확히 무엇을 의미하는 용어인가요?",
+  "answer": "흉터는 피부 손상 후 치유 과정에서 생긴 흔적을 의미합니다. 정상 피부보다 색이 어둡거나 붉고, 주변보다 높거나 낮은 형태로 나타날 수 있습니다."
+}

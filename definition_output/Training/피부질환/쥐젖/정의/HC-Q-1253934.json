@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "쥐젖"
+  },
+  "intention": "정의",
+  "question": "쥐젖이라는 질병은 어떤 증상을 보이는 건가요?",
+  "answer": "쥐젖은 주로 눈꺼풀, 목, 겨드랑이 등에 1~2mm 두께의 작은 줄기를 가진 0.5~1.5cm 크기의 피부 융기로 나타납니다. 통증이나 가려움증은 없으며, 미용적인 문제가 주된 증상입니다."
+}

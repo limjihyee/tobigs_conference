@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "봉와직염"
+  },
+  "intention": "정의",
+  "question": "봉와직염이 발생하는데 가장 흔한 원인은 무엇인가요?",
+  "answer": "봉와직염의 가장 흔한 원인은 A군 연쇄구균이나 황색포도상구균과 같은 세균 감염입니다. 주로 피부의 작은 상처를 통해 세균이 침입하여 발생합니다."
+}

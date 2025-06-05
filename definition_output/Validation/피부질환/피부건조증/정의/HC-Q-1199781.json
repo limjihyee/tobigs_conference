@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "피부건조증"
+  },
+  "intention": "정의",
+  "question": "피부건조증이란 질병은 어떤 것을 의미하는 건가요?",
+  "answer": "피부건조증은 피부의 수분이 부족하여 각질이 생기고 가려움증이 나타나는 상태를 말합니다. 주로 노화, 건조한 환경, 과도한 목욕 습관 등이 원인이 될 수 있습니다."
+}

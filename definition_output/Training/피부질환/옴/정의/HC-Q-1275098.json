@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옴"
+  },
+  "intention": "정의",
+  "question": "옴이라는 질환은 어떤 병원체에 의해 전염되는 건가요?",
+  "answer": "옴은 \"옴 진드기\"라는 작은 곤충에 의해 전염되는 감염성 피부 질환입니다. 이 진드기는 사람의 피부 표면에 굴을 파고 알을 낳아, 밀접한 신체 접촉을 통해 쉽게 전파됩니다."
+}

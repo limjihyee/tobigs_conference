@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "자영업"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "폐렴"
+  },
+  "intention": "정의",
+  "question": "폐렴이란 무엇을 의미하는 용어인가요?",
+  "answer": "폐렴은 폐 조직에 염증이 생겨서 발생하는 질환입니다. 주로 바이러스나 박테리아 감염으로 인해 발생하며, 증상은 기침, 가래, 발열, 호흡 곤란 등을 포함합니다."
+}

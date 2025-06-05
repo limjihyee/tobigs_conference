@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "흉터"
+  },
+  "intention": "정의",
+  "question": "흉터가 어떤 부위에서 발생하는지 알려주세요.",
+  "answer": "흉터는 주로 피부에 상처나 손상이 있을 때 발생합니다. 특히 깊은 상처나 화상, 수술, 여드름, 수두 등의 피부질환이 치유된 부위에 남을 수 있습니다."
+}

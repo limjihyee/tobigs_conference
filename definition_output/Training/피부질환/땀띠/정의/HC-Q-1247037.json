@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "땀띠"
+  },
+  "intention": "정의",
+  "question": "물집과 가려움증이라는 증상 외에 땀이 많이 나는 증상도 땀띠의 일종인가요?",
+  "answer": "네, 물집과 가려움증과 함께 땀이 많이 나는 증상이 있다면 땀띠일 가능성이 높습니다. 땀띠는 땀이 많이 나고 배출이 잘 되지 않을 때 발생하는 피부질환입니다."
+}

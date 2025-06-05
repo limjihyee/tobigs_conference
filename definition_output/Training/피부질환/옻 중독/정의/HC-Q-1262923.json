@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "30대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옻 중독"
+  },
+  "intention": "정의",
+  "question": "옻에 중독되어 발생하는 피부염의 증상은 무엇인가요?",
+  "answer": "옻에 의한 피부염은 가려움증, 홍반, 부종, 수포 등의 증상을 보입니다. 노출 후 1~3일 내로 나타날 수 있으며, 심한 경우 열이나 임파선이 붓는 증상도 동반됩니다."
+}

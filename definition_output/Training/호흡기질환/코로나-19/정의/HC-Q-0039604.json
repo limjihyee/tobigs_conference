@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "주부"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "코로나-19"
+  },
+  "intention": "정의",
+  "question": "코로나-19가 어떤 바이러스에 의해 발생하는 질병인가요?",
+  "answer": "코로나-19는 SARS-CoV-2라는 바이러스에 의해 발생하는 감염성 질병입니다. 이 바이러스는 호흡기 비말을 통해 사람 간 전염됩니다."
+}

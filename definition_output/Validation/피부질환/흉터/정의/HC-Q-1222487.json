@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "흉터"
+  },
+  "intention": "정의",
+  "question": "흉터란 무엇인가요? 흉터의 정의를 알려주세요.",
+  "answer": "흉터는 피부 손상 후 치유 과정에서 생기는 흔적을 의미합니다. 콜라겐의 과다 또는 부족 생성에 의해 피부의 정상적인 구조가 변화된 상태로, 크기와 모양이 다양합니다."
+}

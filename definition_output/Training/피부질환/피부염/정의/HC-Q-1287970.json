@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "피부염"
+  },
+  "intention": "정의",
+  "question": "피부염이 자주 발생하는 이유가 무엇인가요?",
+  "answer": "피부염의 원인은 다양하며, 알레르기, 자극적인 물질 접촉, 건조한 피부, 유전적 요인 등이 있습니다. 정확한 진단을 위해 피부과 전문의의 진료가 필요합니다."
+}

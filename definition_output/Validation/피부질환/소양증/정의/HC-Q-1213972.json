@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "소양증"
+  },
+  "intention": "정의",
+  "question": "소양증은 어떤 증상을 가지는 질병인가요?",
+  "answer": "소양증은 가려움증을 주 증상으로 하는 질환으로, 피부를 긁거나 문지르고 싶은 충동을 일으킵니다. 이는 다양한 피부질환, 내과적 질환, 또는 심리적 요인 등에 의해 발생할 수 있습니다."
+}

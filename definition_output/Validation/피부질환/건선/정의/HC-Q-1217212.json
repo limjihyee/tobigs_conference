@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "건선"
+  },
+  "intention": "정의",
+  "question": "건선의 의미와 특징은 무엇인가요?",
+  "answer": "건선은 피부에 은백색의 비늘이 덮인 홍반성 플라크가 나타나는 만성 염증성 피부질환입니다. 주로 팔꿈치, 무릎, 허리, 두피 등에 발생하며, 가려움증, 통증, 관절염을 동반할 수 있습니다."
+}

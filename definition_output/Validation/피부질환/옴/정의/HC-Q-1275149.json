@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옴"
+  },
+  "intention": "정의",
+  "question": "옴이 밤에 심한 가려움을 유발하는지 알고 싶어요.",
+  "answer": "옴은 밤에 더 심해지는 가려움증을 유발합니다. 이는 옴 진드기가 주로 밤에 활동하여 피부에 알을 낳고 자극을 주기 때문입니다."
+}

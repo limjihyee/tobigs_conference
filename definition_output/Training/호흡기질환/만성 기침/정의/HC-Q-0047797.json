@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "사무직"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "만성 기침"
+  },
+  "intention": "정의",
+  "question": "만성 기침이 지속되면 어떤 원인이 있을까요?",
+  "answer": "만성 기침의 원인으로는 흡연, 천식, 기관지염, 폐렴, 위식도 역류질환 등이 있을 수 있습니다. 정확한 진단을 위해서는 병원에서 진료를 받아보시는 것이 좋습니다."
+}

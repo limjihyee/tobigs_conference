@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "50대 이상",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "지방종"
+  },
+  "intention": "정의",
+  "question": "지방종의 정의와 특징을 알려주세요.",
+  "answer": "지방종은 지방세포로 구성된 양성 종양으로, 일반적으로 피부와 연부조직에 발생합니다. 부드럽고 둥근 모양으로 만져지며, 느리게 성장하고 통증은 대개 없습니다."
+}

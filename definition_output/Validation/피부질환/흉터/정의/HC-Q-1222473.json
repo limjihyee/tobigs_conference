@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "전문직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "흉터"
+  },
+  "intention": "정의",
+  "question": "흉터는 어떤 종류의 상처자국을 의미하는 건가요?",
+  "answer": "흉터는 피부에 상처가 치유된 후 남은 자국을 의미합니다. 상처의 깊이와 크기에 따라 다양한 모양과 색상을 가질 수 있으며, 주로 콜라겐의 과다 또는 부족으로 인해 발생합니다."
+}

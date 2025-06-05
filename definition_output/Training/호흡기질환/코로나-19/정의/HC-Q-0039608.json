@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "40대",
+    "occupation": "사무직"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "코로나-19"
+  },
+  "intention": "정의",
+  "question": "코로나-19에 대해 자세한 정보를 알고 싶어요.",
+  "answer": "코로나-19는 SARS-CoV-2 바이러스에 의해 유발되는 감염병입니다. 주로 호흡기 비말을 통해 전파되며, 증상으로는 발열, 기침, 호흡곤란이 있습니다. 자세한 정보나 검진이 필요하면 의료기관을 방문하세요."
+}

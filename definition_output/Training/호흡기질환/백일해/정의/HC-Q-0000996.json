@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "주부"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "백일해"
+  },
+  "intention": "정의",
+  "question": "백일해란 어떤 의미를 가지는 질병인가요?",
+  "answer": "백일해는 '백일 동안 지속되는 기침'을 의미하는 한자어에서 유래한 용어로, 주로 영유아에게 심한 기침과 발작을 일으키는 호흡기 감염병을 말합니다. 주로 Bordetella pertussis라는 박테리아 감염에 의해 발생하며, 전염성이 매우 높습니다."
+}

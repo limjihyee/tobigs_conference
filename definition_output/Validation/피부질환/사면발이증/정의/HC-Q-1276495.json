@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "사면발이증"
+  },
+  "intention": "정의",
+  "question": "사면발이증에 관한 자세한 정의를 알고 싶어요.",
+  "answer": "사면발이증은 사면발이(Phthirus pubis)라는 기생충에 의해 발생하는 피부 질환입니다. 주로 음모에 서식하며, 감염된 사람과의 밀접한 접촉을 통해 전파됩니다. 심한 가려움증과 함께 물리적 자극으로 인한 피부 발진이 나타날 수 있습니다."
+}

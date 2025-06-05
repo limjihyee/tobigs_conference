@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "자영업"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "기미"
+  },
+  "intention": "정의",
+  "question": "기미라는 질병이 피부에 영향을 미칠 수 있는 건가요?",
+  "answer": "기미는 피부에 영향을 미치는 질환으로, 주로 얼굴에 갈색 반점이 나타나는 색소 침착증입니다. 자외선, 호르몬 변화, 유전적 요인 등이 기미를 유발하거나 악화시킬 수 있습니다."
+}

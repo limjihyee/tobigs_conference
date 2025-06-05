@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "무직"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "인플루엔자"
+  },
+  "intention": "정의",
+  "question": "인플루엔자는 어떤 경우에 발생하는 질병인가요?",
+  "answer": "인플루엔자는 인플루엔자 바이러스(Influenza virus)가 호흡기(코, 목, 폐)를 감염시켜 발생하는 질병입니다. 주로 감염된 사람의 기침, 재채기, 대화 등을 통해 전파되며, 전염성이 강합니다."
+}

@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "건선"
+  },
+  "intention": "정의",
+  "question": "건선에 대한 정의와 특징을 알고 싶습니다.",
+  "answer": "건선은 피부에 붉은 발진과 하얀 비늘이 떨어지는 만성 피부질환입니다. 주로 팔꿈치, 무릎, 두피에 발생하며, 자가면역 및 유전적 요인이 주요 원인으로 알려져 있습니다."
+}

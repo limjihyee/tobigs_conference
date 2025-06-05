@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "교직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "약물 발진"
+  },
+  "intention": "정의",
+  "question": "발진을 일으키는 약물 중 어떤 것이 가장 대표적인지 알려주세요.",
+  "answer": "페니실린과 설파제, 비스테로이드성 소염진통제(NSAIDs) 중 이부프로펜과 나프록센, 항경련제인 카르바마제핀 등이 발진을 일으키는 대표적인 약물입니다."
+}

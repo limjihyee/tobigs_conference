@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "주부"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "기미"
+  },
+  "intention": "정의",
+  "question": "기미가 발생하는데 자외선의 역할이 있는지 알려주세요.",
+  "answer": "자외선은 기미 발생의 주요 원인 중 하나입니다. 자외선에 노출되면 피부에서 멜라닌 색소가 과다 생산되어 기미가 생기거나 악화될 수 있습니다."
+}

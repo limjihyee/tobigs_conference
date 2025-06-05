@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "학생"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "땀띠"
+  },
+  "intention": "정의",
+  "question": "땀띠에 대한 기본적인 설명을 해주세요.",
+  "answer": "땀띠는 땀관이 막혀 땀이 배출되지 못하여 생기는 작은 홍반성 수포나 구진을 말합니다. 주로 땀이 많이 나는 더운 날씨나 운동 시에 목, 가슴, 등, 사타구니 등에 발생합니다."
+}

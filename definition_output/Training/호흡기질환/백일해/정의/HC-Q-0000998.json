@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "기타"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "백일해"
+  },
+  "intention": "정의",
+  "question": "백일해란 질병이 전파되는 원인균과 이 세균이 전파하는 방식에 대해 상세히 알려주세요.",
+  "answer": "백일해는 보르데텔라 퍼투시스(Bordetella pertussis)라는 박테리아에 의해 발생하는 호흡기 감염병입니다. 주로 감염자의 기침이나 재채기를 통해 공기 중으로 전파되며, 감염된 사람의 분비물에 직접 접촉하거나 오염된 물건을 만지는 경우에도 전파될 수 있습니다."
+}

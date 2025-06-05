@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "20대",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "단순 포진"
+  },
+  "intention": "정의",
+  "question": "단순 포진이란 어떤 상태를 말하는 건가요?",
+  "answer": "단순 포진은 헤르페스 바이러스(HSV) 감염으로 발생하는 바이러스성 질환입니다. 주로 입술, 성기 등 피부나 점막에 작은 수포들이 띠를 이루어 나타나며, 재발이 잦은 특징이 있습니다."
+}

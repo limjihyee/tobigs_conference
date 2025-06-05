@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "땀띠"
+  },
+  "intention": "정의",
+  "question": "겨드랑이 사이에 붉게 올라오는 현상이 땀띠의 특징인가요?",
+  "answer": "네, 겨드랑이 사이의 붉게 올라온 발진은 땀띠의 흔한 증상입니다. 땀띠는 땀이 많이 나고 배출이 잘 안될 때 발생하므로, 통풍이 잘 되도록 관리하는 것이 중요합니다."
+}

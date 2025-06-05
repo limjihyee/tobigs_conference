@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "20대",
+    "occupation": "기타"
+  },
+  "disease_category": "호흡기질환",
+  "disease_name": {
+    "kor": "늑막염"
+  },
+  "intention": "정의",
+  "question": "늑막염에 대한 정의와 원인에 대해 알려주세요.",
+  "answer": "늑막염은 폐를 둘러싼 막인 늑막에 발생한 염증으로, 주로 바이러스나 세균 감염이 원인입니다. 드물게 결핵균이나 곰팡이 감염, 악성 종양도 늑막염을 유발할 수 있습니다."
+}

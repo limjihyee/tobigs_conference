@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "남성",
+    "age": "40대",
+    "occupation": "무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옴"
+  },
+  "intention": "정의",
+  "question": "옴이란 어떤 원인으로 인해 발생하는 병인가요?",
+  "answer": "옴은 옴진드기(Sarcoptes scabiei)라는 기생충의 감염으로 발생하는 피부질환입니다. 밀접한 신체 접촉을 통해 전염되며, 밤에 가려움증이 심해지는 특징이 있습니다."
+}

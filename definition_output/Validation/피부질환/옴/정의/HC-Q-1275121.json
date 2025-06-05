@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "50대 이상",
+    "occupation": "사무직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "옴"
+  },
+  "intention": "정의",
+  "question": "밤에 가려워서 긁었을 때, 옴이 있을 가능성이 있을까요?",
+  "answer": "옴은 밤에 더 심해지는 가려움증이 특징입니다. 그러나 가려움증만으로는 옴을 확정할 수 없으니, 정확한 진단을 위해 의료기관을 방문하시길 권장합니다."
+}

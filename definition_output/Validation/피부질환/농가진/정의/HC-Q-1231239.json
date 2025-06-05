@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "30대",
+    "occupation": "교직"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "농가진"
+  },
+  "intention": "정의",
+  "question": "농가진은 어떤 질병을 의미하는 건가요?",
+  "answer": "농가진은 피부에 생기는 감염성 질환으로, 주로 A군 연쇄상구균이나 포도상구균에 의해 발생합니다. 작은 수포나 농포가 형성되고, 쉽게 터지며 황색의 딱지가 생기는 것이 특징입니다."
+}

@@ -1,0 +1,14 @@
+{
+  "participantsInfo": {
+    "gender": "여성",
+    "age": "40대",
+    "occupation": "기타"
+  },
+  "disease_category": "피부질환",
+  "disease_name": {
+    "kor": "땀띠"
+  },
+  "intention": "정의",
+  "question": "땀띠라는 질병은 어떤 부분에 영향을 주는 건가요?",
+  "answer": "땀띠는 땀이 많이 나고 배출이 잘 안 되는 피부에 영향을 미칩니다. 주로 땀이 많이 나는 부위인 목, 가슴, 등, 사타구니 등에 작은 붉은색 또는 투명한 물집이 생기는 것이 특징입니다."
+}
