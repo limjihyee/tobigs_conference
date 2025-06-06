@@ -30,7 +30,6 @@ def collect_documents_with_disease_name(output_dir):
                         print(f"Error at {path}: {e}")
     return documents, metadata
 
-# 실행
 docs, meta = collect_documents_with_disease_name("./definition_output")
 
 print(f"문서 수집 완료: {len(docs)}개")
