@@ -4,10 +4,10 @@ from glob import glob
 
 import torch
 from torch.utils.data import Dataset, DataLoader
+from torch.optim import AdamW
 from transformers import (
     AutoTokenizer,
     AutoModelForSequenceClassification,
-    AdamW,
 )
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
